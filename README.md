@@ -1,6 +1,8 @@
 
 # AlamofireXMLRPC #
 
+[![Join the chat at https://gitter.im/phimage/AlamofireXMLRPC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phimage/AlamofireXMLRPC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat
             )](http://mit-license.org)
 [![Platform](http://img.shields.io/badge/platform-iOS%20%26%20OSX-lightgrey.svg?style=flat
